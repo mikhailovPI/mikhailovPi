@@ -4,26 +4,26 @@
 </h1>
 
 <div id="badges" align="center>
-  <a href="https://career.habr.com/mikhailov_pi">
-    <img src="https://img.shields.io/badge/habr-black?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
-  </a>
   <a href="my-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn Badge"/>
   </a>
   <a href="https://instagram.com/mikhailov_pi">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
   <a href="https://t.me/mikhailov_pi">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
+  <a href = "https://career.habr.com/mikhailov_pi">
+    <img src="https://img.shields.io/badge/habr-black?style=for-the-badge&logo=habr&logoColor=white" alt="habr Badge"/>
+  </a>                                                                                                                              
 </div>                                                                                                                         
                                                                                                                                 
 ---
                                                                                                                                  
 ### 👨‍💻 Обо мне:                                                                                                                                 
-- 📔 Java Developer.
-- 🤟 Люблю писать код.
-- 📖 Окончил курсы Яндекс Практикума.                                                                                                                                 
+- 📔 Java Developer
+- 🤟 Люблю писать код
+- 📖 Окончил курсы Яндекс Практикума                                                                                                                                
 - 📫 Связь со мной [![Telegram Badge](https://img.shields.io/badge/-mikhailov_pi-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhailov_pi)
 
 ---                                                                                                                                 
