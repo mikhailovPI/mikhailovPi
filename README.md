@@ -10,7 +10,7 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/mikhailov_pi">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
     <a href="https://career.habr.com/mikhailov_pi">
