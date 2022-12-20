@@ -5,7 +5,7 @@
 
 <div id="badges" align="center>
   <a href="https://career.habr.com/mikhailov_pi">
-    <img src="https://img.shields.io/badge/habr-black?style=for-the-badge&logo=habr&logoColor=white" alt="habr Badge"/>
+    <img src="https://img.shields.io/badge/habr-black?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
   <a href="my-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
