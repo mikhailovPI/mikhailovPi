@@ -46,9 +46,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikhailovPI&theme=dark&hide_border=true&border_radius=1&date_format=j%20M%5B%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF)](https://git.io/streak-stats)
                                                                                                                                               
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhailovPI&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-                                                                                                                                            
                                                                                                                                                
-Вставить гифку определенного размера.
 <div align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" height="200"/>
 </div>
