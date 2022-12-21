@@ -12,10 +12,7 @@
   </a>
   <a href="https://t.me/mikhailov_pi">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
-  <a href = "https://career.habr.com/mikhailov_pi">
-    <img src="https://img.shields.io/badge/habr-black?style=for-the-badge&logo=habr&logoColor=white" alt="habr Badge"/>
-  </a>                                                                                                                              
+  </a>                                                                                                                           
 </div>                                                                                                                         
                                                                                                                                 
 ---
