@@ -4,7 +4,7 @@
 </h1>
 
 <div id="badges">
-  <a href="my-linkedin-URL">
+  <a href="https://www.linkedin.com/in/pavel-mikhailov-57852b25b/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn Badge"/>
   </a>
   <a href="https://instagram.com/mikhailov_pi">
