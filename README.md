@@ -19,7 +19,7 @@
                                                                                                                                  
 ### 👨‍💻 Обо мне:                                                                                                                                 
 - 📔 Java Developer
-- 🤟 Люблю писать код
+- 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security 
 - 📖 Окончил курсы Яндекс Практикума                                                                                                                                
 - 📫 Связь со мной [![Telegram Badge](https://img.shields.io/badge/-mikhailov_pi-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhailov_pi)
 
