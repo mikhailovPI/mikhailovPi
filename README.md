@@ -19,8 +19,8 @@
                                                                                                                                  
 ### 👨‍💻 Обо мне:                                                                                                                                 
 - 📔 Java Developer
-- 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security 
-- 📖 Окончил курсы Яндекс Практикума                                                                                                                                
+- 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security, Vaadin 
+- 📖 Окончил курсы Яндекс Практикума и занимаюсь freelance                                                                                                                                
 - 📫 Связь со мной [![Telegram Badge](https://img.shields.io/badge/-mikhailov_pi-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhailov_pi)
 
 ---                                                                                                                                 
@@ -36,9 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/vaadin/vaadin-icons/blob/master/assets/svg/vaadin-v.svg" title="Vaadin" **alt="Vaadin" width="40" height="40"/>
-<img src="https://github.com/vaadin/vaadin-icons/blob/master/assets/fonts/Vaadin-Icons.svg" title="Vaadin" **alt="Vaadin" width="40" height="40"/>
-
-  
 </div>             
                                                                                                                                                
 --- 
