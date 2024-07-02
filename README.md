@@ -19,7 +19,7 @@
                                                                                                                                  
 ### 👨‍💻 Обо мне:                                                                                                                                 
 - 📔 Java Developer
-- 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security, JUnit, Kerberos, Kafka, Camel, Jira
+- 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security, JUnit, Kerberos, Apache Kafka, Apache Camel, Swagger,  Jira
 - 📖 Работаю в "Газпромнефть"                                                                                                                                
 - 📫 Связь со мной [![Telegram Badge](https://img.shields.io/badge/-mikhailov_pi-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhailov_pi)
 
@@ -33,13 +33,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Apache Maven" **alt="Apache Maven" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" title="JUnit" **alt="JUnit" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" **alt="Apache Kafka" width="40" height="40"/>
   <img src="https://github.com/apache/camel/blob/main/docs/img/logo-d.svg" title="Apache Camel" **alt="Apache Camel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Swagger" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
+
+  
   
 </div>             
                                                                                                                                                
