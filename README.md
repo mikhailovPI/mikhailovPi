@@ -20,7 +20,7 @@
 ### 👨‍💻 Обо мне:                                                                                                                                 
 - 📔 Java Developer
 - 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security, JUnit, Kerberos, Apache Kafka, Apache Camel, Swagger,  Jira
-- 📖 Работаю в "Газпромнефть"                                                                                                                                
+- 📖 Работаю в Java-разработчиком в "Газпромнефть"                                                                                                                                
 - 📫 Связь со мной [![Telegram Badge](https://img.shields.io/badge/-mikhailov_pi-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhailov_pi)
 
 ---                                                                                                                                 
@@ -47,19 +47,4 @@
   
 </div>             
                                                                                                                                                
---- 
-
-### 🔥 Моя статистика:                                                                                                                                              
-                                                                                                                                               
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikhailovPI&theme=dark&hide_border=true&border_radius=1&date_format=j%20M%5B%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF)](https://git.io/streak-stats)
-                                                                                                                                              
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhailovPI&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-                                                                                                                                               
-<div align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" height="200"/>
-</div>
-                                                                                                
-<div id="header" align="center">                                                                                                                                
-<img src="https://komarev.com/ghpvc/?username=mikhailovPi&style=flat-square&color=red" alt=""/>
-</div>                                                                                     
-1
+---                                                                                   
