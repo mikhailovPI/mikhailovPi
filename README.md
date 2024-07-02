@@ -19,8 +19,8 @@
                                                                                                                                  
 ### 👨‍💻 Обо мне:                                                                                                                                 
 - 📔 Java Developer
-- 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security, Vaadin 
-- 📖 Окончил курсы Яндекс Практикума и занимаюсь freelance                                                                                                                                
+- 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security, Kerberos, Kafka, Camel
+- 📖 Работаю в "Газпромнефть"                                                                                                                                
 - 📫 Связь со мной [![Telegram Badge](https://img.shields.io/badge/-mikhailov_pi-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhailov_pi)
 
 ---                                                                                                                                 
@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/vaadin/vaadin-icons/blob/master/assets/svg/vaadin-h.svg" title="Vaadin" **alt="Vaadin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" **alt="Kafka" width="40" height="40"/>
 </div>             
                                                                                                                                                
 --- 
@@ -53,3 +53,4 @@
 <div id="header" align="center">                                                                                                                                
 <img src="https://komarev.com/ghpvc/?username=mikhailovPi&style=flat-square&color=red" alt=""/>
 </div>                                                                                     
+1
