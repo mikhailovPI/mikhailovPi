@@ -43,6 +43,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="Apache JMeter" title="Apache JMeter" width="40" height="40" />
+  <img src="https://www.keycloak.org/resources/images/keycloak_logo_200px.svg" title="Keycloak" alt="Keycloak" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Kerberos-logo.svg" title="Kerberos" alt="Kerberos" width="40" height="40"/>
+
 
   
   
