@@ -20,7 +20,7 @@
 ### 👨‍💻 Обо мне:                                                                                                                                 
 - 📔 Java Developer
 - 🤟 Stream API, RESTfull, Spring Boot, Spring Data JPA, Spring Security, JUnit, Kerberos, Apache Kafka, Apache Camel, Swagger,  Jira
-- 📖 Работаю в Java-разработчиком в "Газпромнефть"                                                                                                                                
+- 📖 Работаю Java-разработчиком в "Газпромнефть"                                                                                                                                
 - 📫 Связь со мной [![Telegram Badge](https://img.shields.io/badge/-mikhailov_pi-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/mikhailov_pi)
 
 ---                                                                                                                                 
