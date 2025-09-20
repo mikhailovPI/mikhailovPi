@@ -42,6 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="Apache JMeter" title="Apache JMeter" width="40" height="40" />
 
   
   
